@@ -16,3 +16,10 @@ git init
 git add .
 git commit -m 'Mensagem'
 git remote add origin URL_DO_GIT
+
+Utilização dia a dia
+
+git status
+git add . (adiciona todos os arquivos)
+git commite -m "lksdlfkasdk" (comita os arquivos novos e modificados)
+git push (sobe com os arquivos para o github)

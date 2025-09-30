@@ -38,7 +38,6 @@ def search(request):
 
         )\
         .order_by('-id')
-    
 
     paginator = Paginator(contacts, 10)
     page_number = request.GET.get("page")

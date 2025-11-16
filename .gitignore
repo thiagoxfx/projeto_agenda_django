@@ -10,6 +10,7 @@ media/
 project/local_settings.py
 README.md
 SERVER.MD
+nginx-https.txt
 # Backup files #
 *.bak
 

@@ -11,6 +11,7 @@ project/local_settings.py
 README.md
 SERVER.MD
 nginx-https.txt
+nginx_preenchido.txt
 # Backup files #
 *.bak
 
